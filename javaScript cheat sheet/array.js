@@ -1,0 +1,15 @@
+let arr = [];
+console.log(arr);
+arr = new Array(1,2,3);
+console.log(arr);
+arr.push('dance');
+console.log(arr);
+arr.pop();
+console.log(arr);
+var a = arr.join("+");
+console.log(a);
+console.log(arr.shift());
+console.log(arr.reverse());
+let arr1 = [1, 5, 9, 3, 7, 8, 6, 2, 4, 10];
+console.log(arr1.sort());
+console.log("-----------------------------------");

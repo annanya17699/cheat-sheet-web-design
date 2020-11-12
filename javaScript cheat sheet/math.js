@@ -1,0 +1,10 @@
+var pi = Math.PI;
+console.log(pi);
+console.log(Math.random());
+console.log(Math.exp(2));
+console.log(Math.max(-1,100,1000));
+console.log(Math.min(-1,100,1000));
+console.log(Math.sqrt(49));
+console.log(Math.abs(-3.12));
+console.log(Math.round(3.5));
+console.log(Math.pow(3,4));
